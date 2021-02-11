@@ -1,3 +1,4 @@
+// pair programming completed by Connie Ho and Dylan Rogers
 const transpose = function(matrix) {
     const matrixHeight = matrix.length;
     const matrixLength = matrix[0].length;
